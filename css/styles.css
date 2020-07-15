@@ -1,0 +1,30 @@
+* {
+    font-family: 'Source Code Pro', monospace;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: tomato;
+    margin-left: 1em;
+}
+
+h2 {
+    margin-left: 2em;
+}
+
+p {
+    margin-left: 4em;
+}
+
+a:link{
+    color: rgb(102, 7, 4, 0.6);
+}
+
+a:hover {
+    color: rgb(102, 7, 4);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(78, 78, 9);
+}
