@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    image: quay.io/rh_ee_lseveroa/site-test:lastest
+    ports:
+      - "80:80"
